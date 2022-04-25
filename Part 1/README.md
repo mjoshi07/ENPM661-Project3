@@ -18,3 +18,5 @@ python main.py
 * `goal x`
 * `goal y`
 * After this A* algorithms finds the shortest path and visualization is performed after search is complete
+
+* Other parameters, like robot wheel radius, robot wheel base length, map size are all defined in `Config.py`
