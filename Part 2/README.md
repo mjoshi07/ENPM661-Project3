@@ -2,6 +2,7 @@
 A* path planning with non-holonomic constraints
 
 Given a start and goal location, plan a path using A* algorithm
+Robot dimensions are set to Turtlebot3 `Waffle_Pi`
 
 ## Run instructions
 ```bash
